@@ -3,7 +3,7 @@ import Sidebar from "../Components/Sidebar";
 
 export default function Home() {
   return (
-    <div className="bg-black h-screen overflow-hidden">
+    <div className="bg-black min-h-screen overflow-hidden">
       <Head>
         <title>Spotify Clone</title>
         <link rel="icon" href="/favicon.ico" />
